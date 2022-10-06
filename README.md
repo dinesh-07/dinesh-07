@@ -7,3 +7,5 @@ Find me around the web 🌎:http://dineshkini.com/
 Tinkering with interactions on Codepen 🏓: https://codepen.io/dikini
 
 Sharing updates on LinkedIn 💼: https://www.linkedin.com/in/dikini/
+
+[![@dikini's Holopin board](https://holopin.io/api/user/board?user=dikini)](https://holopin.io/@dikini)
