@@ -8,4 +8,11 @@ Tinkering with interactions on Codepen 🏓: https://codepen.io/dikini
 
 Sharing updates on LinkedIn 💼: https://www.linkedin.com/in/dikini/
 
-[![@dikini's Holopin board](https://holopin.io/api/user/board?user=dikini)](https://holopin.io/@dikini)
+## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dinesh-07&show_icons=true)
+
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-07&theme=blue)
+
+## 3. My Badge
+[![@dikini's Holopin board](https://holopin.me/dikini)](https://holopin.io/@dikini)
